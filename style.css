@@ -1,0 +1,16 @@
+#rodape
+{
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+    background-color: rgb(122, 122, 255);
+    color: white;
+    bottom: 0;
+    position: fixed;
+    font-size: 15px;
+}
+
+canvas
+{
+    
+}
